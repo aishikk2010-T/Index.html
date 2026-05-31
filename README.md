@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Happy Birthday ❤️</title>
+<title>Happy Birthday MAHHH BABBYY❤️</title>
 
 <style>
 
@@ -389,7 +389,7 @@ window.onload = () => {
 ========================== */
 
 const music =
-document.Hareya hg.mp3("bgMusic");
+document.Kali Uchis-All I Can Say(2).mp3("bgMusic");
 
 function toggleMusic(){
 
